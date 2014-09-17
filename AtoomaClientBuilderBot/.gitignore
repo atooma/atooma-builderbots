@@ -1,0 +1,17 @@
+builds/*.apk
+
+changes/*.log
+
+master/gitpoller-workdir
+master/nightly
+master/weekly
+master/public_html
+master/templates
+master/buildbot.tac
+master/*.log
+master/*.pid
+master/*.sqlite*
+master/*.cfg.sample
+master/authmaster.py
+
+slave/
